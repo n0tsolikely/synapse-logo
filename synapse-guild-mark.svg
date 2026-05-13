@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="synapse-guild-mark-title synapse-guild-mark-desc">
+  <title id="synapse-guild-mark-title">Synapse Guild mark</title>
+  <desc id="synapse-guild-mark-desc">A simplified green shield mark with connected signal nodes.</desc>
+  <path
+    d="M32 5 54 14v16c0 14.8-8.7 25.4-22 30C18.7 55.4 10 44.8 10 30V14L32 5Z"
+    fill="none"
+    stroke="#7ee787"
+    stroke-width="3"
+  />
+  <path
+    d="M22 24h20M22 40h20M24 24l8 8-8 8M40 24l-8 8 8 8"
+    fill="none"
+    stroke="#7ee787"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="22" cy="24" r="3" fill="#7ee787" />
+  <circle cx="42" cy="24" r="3" fill="#7ee787" />
+  <circle cx="22" cy="40" r="3" fill="#7ee787" />
+  <circle cx="42" cy="40" r="3" fill="#7ee787" />
+  <circle cx="32" cy="32" r="4" fill="#7ee787" />
+</svg>
